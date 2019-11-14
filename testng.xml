@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<suite name="接口测试套件">
+
+    <test name="ui测试用例">
+        <packages>
+            <package name="uitest.cases.*" />
+        </packages>
+
+        <!--        <classes>-->
+<!--            <class name="apitest.uitest.cases.LoginTest">-->
+<!--                <methods>-->
+<!--                    <include name="login"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--        </classes>-->
+    </test>
+
+    <listeners>
+        <listener class-name="uitest.config.ExtentTestNGIReporterListener" />
+    </listeners>
+
+</suite>
