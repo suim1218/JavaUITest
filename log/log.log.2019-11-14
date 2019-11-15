@@ -1,0 +1,6 @@
+2019-11-14 15:55:25 method: uitest.cases.SearchTest.SearchCase(SearchTest.java:41)----[ INFO ]----参数是：【javajava_百度搜索】
+2019-11-14 15:55:27 method: uitest.cases.SearchTest.SearchCase(SearchTest.java:41)----[ INFO ]----参数是：【page objectpage object_百度搜索】
+2019-11-14 15:55:30 method: uitest.cases.SearchTest.SearchCase(SearchTest.java:41)----[ INFO ]----参数是：【testNGtestNG_百度搜索】
+2019-11-14 15:56:40 method: uitest.cases.SearchTest.SearchCase(SearchTest.java:41)----[ INFO ]----参数是：【java   java_百度搜索】
+2019-11-14 15:56:43 method: uitest.cases.SearchTest.SearchCase(SearchTest.java:41)----[ INFO ]----参数是：【page object   page object_百度搜索】
+2019-11-14 15:56:46 method: uitest.cases.SearchTest.SearchCase(SearchTest.java:41)----[ INFO ]----参数是：【testNG   testNG_百度搜索】

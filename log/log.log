@@ -1,6 +1,15 @@
-2019-11-14 15:55:25 method: uitest.cases.SearchTest.SearchCase(SearchTest.java:41)----[ INFO ]----参数是：【javajava_百度搜索】
-2019-11-14 15:55:27 method: uitest.cases.SearchTest.SearchCase(SearchTest.java:41)----[ INFO ]----参数是：【page objectpage object_百度搜索】
-2019-11-14 15:55:30 method: uitest.cases.SearchTest.SearchCase(SearchTest.java:41)----[ INFO ]----参数是：【testNGtestNG_百度搜索】
-2019-11-14 15:56:40 method: uitest.cases.SearchTest.SearchCase(SearchTest.java:41)----[ INFO ]----参数是：【java   java_百度搜索】
-2019-11-14 15:56:43 method: uitest.cases.SearchTest.SearchCase(SearchTest.java:41)----[ INFO ]----参数是：【page object   page object_百度搜索】
-2019-11-14 15:56:46 method: uitest.cases.SearchTest.SearchCase(SearchTest.java:41)----[ INFO ]----参数是：【testNG   testNG_百度搜索】
+2019-11-15 16:32:49 method: uitest.cases.SearchTest.SearchCase(SearchTest.java:41)----[ INFO ]----参数是：【java   java_百度搜索】
+2019-11-15 16:32:52 method: uitest.cases.SearchTest.SearchCase(SearchTest.java:41)----[ INFO ]----参数是：【page object   page object_百度搜索】
+2019-11-15 16:32:54 method: uitest.cases.SearchTest.SearchCase(SearchTest.java:41)----[ INFO ]----参数是：【testNG   testNG_百度搜索】
+2019-11-15 16:55:13 method: uitest.cases.SearchTest2.SearchCase(SearchTest2.java:42)----[ INFO ]----参数是：【java   java_百度搜索】
+2019-11-15 16:55:24 method: uitest.cases.SearchTest2.SearchCase(SearchTest2.java:42)----[ INFO ]----参数是：【page object   page object_百度搜索】
+2019-11-15 16:55:27 method: uitest.cases.SearchTest2.SearchCase(SearchTest2.java:42)----[ INFO ]----参数是：【testNG   testNG_百度搜索】
+2019-11-15 16:56:03 method: uitest.cases.SearchTest2.SearchCase(SearchTest2.java:42)----[ INFO ]----参数是：【java   java_百度搜索】
+2019-11-15 16:56:06 method: uitest.cases.SearchTest2.SearchCase(SearchTest2.java:42)----[ INFO ]----参数是：【page object   page object_百度搜索】
+2019-11-15 16:56:07 method: uitest.cases.SearchTest2.SearchCase(SearchTest2.java:42)----[ INFO ]----参数是：【testNG   testNG_百度搜索】
+2019-11-15 17:01:42 method: uitest.cases.SearchTest2.SearchCase(SearchTest2.java:42)----[ INFO ]----参数是：【java   java_百度搜索】
+2019-11-15 17:01:44 method: uitest.cases.SearchTest2.SearchCase(SearchTest2.java:42)----[ INFO ]----参数是：【page object   page object_百度搜索】
+2019-11-15 17:01:46 method: uitest.cases.SearchTest2.SearchCase(SearchTest2.java:42)----[ INFO ]----参数是：【testNG   testNG_百度搜索】
+2019-11-15 17:02:26 method: uitest.cases.SearchTest2.SearchCase(SearchTest2.java:42)----[ INFO ]----参数是：【java   java_百度搜索】
+2019-11-15 17:02:28 method: uitest.cases.SearchTest2.SearchCase(SearchTest2.java:42)----[ INFO ]----参数是：【page object   page object_百度搜索】
+2019-11-15 17:02:30 method: uitest.cases.SearchTest2.SearchCase(SearchTest2.java:42)----[ INFO ]----参数是：【testNG   testNG_百度搜索】
